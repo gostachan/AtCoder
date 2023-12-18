@@ -15,13 +15,13 @@ AtCoderでの自分の解答と，考えられる模範解答をまとめたデ�
 │   ├── test3.rb
 │   ├── test4.rb
 │   └── typical_text.rb
-└── typical90 [競プロ典型 90 問](https://atcoder.jp/contests/typical90)
+└── typical90 
     ├── level2
     │   ├── num10 
     │   │   └── model_anser.rb
     │   ├── num22
     │   │   └── model_anser.rb
-    │   └── num4 [004 - Cross Sum（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_d)
+    │   └── num4 
     │       ├── model_answer.rb
     │       └── my_answer1.rb
     └── level3
