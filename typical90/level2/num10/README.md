@@ -3,7 +3,7 @@
 
 # 解いた日付と結果
 my_anser1.rb : 12/18 : TLE  
-model_answer.rb :  :  
+model_answer.rb : 12/19 : TLE 
 my_anser2.rb :  :  
 my_anser3.rb :  :  
 
