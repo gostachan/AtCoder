@@ -13,24 +13,23 @@ my_answer.rb：自分が何も見ずに書いたコードのファイル
 <pre>
 .
 ├── README.md
-├── contest
-│   ├── README.md
-│   ├── answer.rb
-│   ├── test1.rb
-│   ├── test2.rb
-│   ├── test3.rb
-│   ├── test4.rb
-│   └── typical_text.rb
 └── typical90
     ├── README.md
     ├── level2
     │   ├── num10
-    │   │   └── model_anser.rb
+    │   │   ├── README.md
+    │   │   ├── model_answer.rb
+    │   │   ├── my_answer1.rb
+    │   │   ├── my_answer2.rb
+    │   │   └── my_answer3.rb
     │   ├── num22
     │   │   └── model_anser.rb
     │   └── num4
+    │       ├── README.md
     │       ├── model_answer.rb
-    │       └── my_answer1.rb
+    │       ├── my_answer1.rb
+    │       ├── my_answer2.rb
+    │       └── my_answer3.rb
     └── level3
         ├── num2
         │   └── model_anser.rb
