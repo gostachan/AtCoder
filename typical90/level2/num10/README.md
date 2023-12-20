@@ -1,5 +1,4 @@
-# 問題
-競プロ典型90問/[010 - Score Sum Queries（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_j)
+# [010 - Score Sum Queries（★2）](https://atcoder.jp/contests/typical90/tasks/typical90_j)
 
 # 解いた日付と結果
 my_anser1.rb : 12/18 : TLE  

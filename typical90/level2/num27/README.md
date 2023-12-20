@@ -1,5 +1,4 @@
-# 問題
-競プロ典型90問/[027 - Sign Up Requests （★2）](https://atcoder.jp/contests/typical90/tasks/typical90_aa)
+# [027 - Sign Up Requests （★2）](https://atcoder.jp/contests/typical90/tasks/typical90_aa)
 
 # 解いた日付と結果
 * my_anser1.rb : 12/19 : TLE  
