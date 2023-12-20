@@ -5,7 +5,5 @@ set = Set.new
 
 (1..n).each do |i|
   s = gets.chomp
-  if set.add?(s)
-    puts i
-  end
+  puts i if set.add?(s)
 end
