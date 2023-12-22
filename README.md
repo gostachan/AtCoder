@@ -13,37 +13,49 @@ my_answer.rb：自分が何も見ずに書いたコードのファイル
 <pre>
 .
 ├── README.md
-└── typical90
+└── level2
     ├── README.md
-    └── level2
+    ├── num10
+    │   ├── README.md
+    │   ├── model_answer.rb
+    │   ├── my_answer1.rb
+    │   ├── my_answer2.rb
+    │   └── my_answer3.rb
+    ├── num22
+    │   ├── README.md
+    │   ├── model_anser.rb
+    │   └── my_answer1.rb
+    ├── num24
+    │   ├── README.md
+    │   ├── model_answer.rb
+    │   └── my_answer1.rb
+    ├── num27
+    │   ├── README.md
+    │   ├── model_answer.rb
+    │   ├── my_answer1.rb
+    │   └── my_answer2.rb
+    ├── num33
+    │   ├── README.md
+    │   ├── model_answer.rb
+    │   ├── my_answer1.rb
+    │   └── my_answer2.rb
+    ├── num4
+    │   ├── README.md
+    │   ├── model_answer.rb
+    │   ├── my_answer1.rb
+    │   ├── my_answer2.rb
+    │   └── my_answer3.rb
+    ├── num55
+    │   ├── README.md
+    │   ├── model_answer.rb
+    │   ├── my_answer1.rb
+    │   └── my_answer2.rb
+    ├── num61
+    │   ├── README.md
+    │   ├── model_answer.rb
+    │   └── my_answer1.rb
+    └── num67
         ├── README.md
-        ├── num10
-        │   ├── README.md
-        │   ├── model_answer.rb
-        │   ├── my_answer1.rb
-        │   ├── my_answer2.rb
-        │   └── my_answer3.rb
-        ├── num22
-        │   ├── README.md
-        │   ├── model_anser.rb
-        │   └── my_answer1.rb
-        ├── num24
-        │   ├── README.md
-        │   ├── model_answer.rb
-        │   └── my_answer1.rb
-        ├── num27
-        │   ├── README.md
-        │   ├── model_answer.rb
-        │   ├── my_answer1.rb
-        │   └── my_answer2.rb
-        ├── num33
-        │   ├── README.md
-        │   ├── my_answer1.rb
-        │   └── my_answer2.rb
-        └── num4
-            ├── README.md
-            ├── model_answer.rb
-            ├── my_answer1.rb
-            ├── my_answer2.rb
-            └── my_answer3.rb
+        ├── model_answer.rb
+        └── my_answer1.rb
 </pre>
