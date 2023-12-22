@@ -2,7 +2,7 @@
 
 # 解いた日付と結果
 * my_anser1.rb : 12/22 : AC  
-* model_answer.rb : 12/20 : AC    
+* model_answer.rb : 12/22 : AC    
 
 # 解法
 * t == 1　の時は　Array#unshift　を使う
