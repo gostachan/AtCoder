@@ -10,3 +10,5 @@
 * [問題　027](https://atcoder.jp/contests/typical90/tasks/typical90_aa)：[ディレクトリ](https://github.com/gostachan/AtCoder/tree/main/typical90/level2/num27)
 * [問題　033](https://atcoder.jp/contests/typical90/tasks/typical90_ag)：[ディレクトリ](https://github.com/gostachan/AtCoder/tree/main/typical90/level2/num33)
 * [問題　055](https://atcoder.jp/contests/typical90/tasks/typical90_bc)：[ディレクトリ](https://github.com/gostachan/AtCoder/tree/main/typical90/level2/num55)
+* [問題　061](https://atcoder.jp/contests/typical90/tasks/typical90_bi)：[ディレクトリ](https://github.com/gostachan/AtCoder/tree/main/typical90/level2/num61)
+* [問題　067](https://atcoder.jp/contests/typical90/tasks/typical90_bo)：[ディレクトリ](https://github.com/gostachan/AtCoder/tree/main/typical90/level2/num67)
