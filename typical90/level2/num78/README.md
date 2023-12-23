@@ -9,27 +9,9 @@
 * 新たに作成した配列の要素のうち，重複の無い要素の数を出力する
 
 # 学んだこと
-* Array#tally
-`
-["a", "b", "c", "b"].tally  #=> {"a"=>1, "b"=>2, "c"=>1}
-
-h = {}
-[:a, :b, :c].tally(h)
-[:a, :b, :d].tally(h)
-
-p h # => {:a=>2, :b=>2, :c=>1, :d=>1}
-`
-* Hash#select
-`
-h = { "a" => 100, "b" => 200, "c" => 300 }
-h.select {|k,v| k > "a"}  #=> {"b" => 200, "c" => 300}
-h.select {|k,v| v < 200}  #=> {"a" => 100}
-`
-* Hash#keys
-`
-h1 = { "a" => 100, 2 => ["some"], :c => "c" }
-p h1.keys           #=> ["a", 2, :c]
-`
+* [Array#tally](https://docs.ruby-lang.org/ja/latest/method/Enumerable/i/tally.html)
+* [Hash#select](https://docs.ruby-lang.org/ja/latest/method/Hash/i/filter.html)
+* [Hash#keys](https://docs.ruby-lang.org/ja/latest/method/Hash/i/keys.html)
  
 
 # これから深掘りするところ
