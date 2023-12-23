@@ -9,8 +9,8 @@
 # この問題で学んだこと
 * Array = Array.new(arg){block}
 * split(" ") = split
-* Array#trancepose
-* Array#join(arg)
+* [Array#trancepose](https://docs.ruby-lang.org/ja/latest/method/Array/i/transpose.html)
+* [Array#join](https://docs.ruby-lang.org/ja/latest/method/Array/i/join.html)
 * (num1...num2).
 
 # これから学ぶこと

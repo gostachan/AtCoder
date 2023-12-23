@@ -9,7 +9,7 @@
 * 各iに対して文字列sがすでに存在するかを高速で評価する
 
 # 学んだこと
-* 外部ライブラリ　set
+* [外部ライブラリ　set](https://docs.ruby-lang.org/ja/latest/library/set.html)
 * set#add?(arg) => setの要素にargがなければargを追加してtrueを返す
 
 # これから深掘りするところ

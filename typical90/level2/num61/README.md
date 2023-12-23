@@ -8,7 +8,7 @@
 * t == 1　の時は　Array#unshift　を使う
 
 # 学んだこと
-* Array#unshift
+* [Array#unshift](https://docs.ruby-lang.org/ja/latest/method/Array/i/prepend.html)
  
 
 # これから深掘りするところ
