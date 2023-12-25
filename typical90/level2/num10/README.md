@@ -5,6 +5,7 @@
 * model_answer.rb : 12/19 : AC  
 * my_anser2.rb : 12/19 : TLE  
 * my_anser3.rb : 12/19 : AC
+* my_anser4.rb : 12/25 : AC
 
 # この問題で学んだこと
 * 累計和を取った配列を作成して計算すると計算量を削減できる？
